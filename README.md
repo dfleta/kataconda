@@ -59,12 +59,14 @@ conda deactivate
 Para evitar que pytest ejecute los test del directorio envs de conda:
 crear el fichero init.py e incluir:
 
+```
 [pytest]
 testpaths =
     test
+```
 
-o:
+o ejecutar:
 
-pytest ./test
+`pytest ./test``
 
-Sin los ficheros __ini__.py pytest no carbura con los módulos.
+Sin los ficheros `__ini__.py` pytest no carbura con los módulos.

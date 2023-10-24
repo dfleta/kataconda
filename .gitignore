@@ -27,3 +27,7 @@ __pycache__
 # Conda env #
 #############
 /envs
+
+# VSCODE #
+##########
+.vscode
