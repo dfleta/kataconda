@@ -70,3 +70,7 @@ o ejecutar:
 `pytest ./test``
 
 Sin los ficheros `__ini__.py` pytest no carbura con los módulos.
+
+Con el entorno activado:
+
+`$ conda env export > environment.yml`
