@@ -1,0 +1,6 @@
+name: condajupy
+channels:
+  - defaults
+dependencies:
+  - jupyter
+prefix: /Users/usu/miniconda3/envs/condajupy
