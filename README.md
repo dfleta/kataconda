@@ -196,7 +196,7 @@ jupyterlab_server         2.25.0             pyhd8ed1ab_0    conda-forge
 ```
 
 
-### Añadrr canal
+### Añadir canal
 
 Añado el canal conda-forge a mi sistema:
 
@@ -222,7 +222,7 @@ pytest                         7.4.2    pyhd8ed1ab_0  conda-forge
 `conda config --remove channels 'conda-forge'`
 
 
-### Actualiar un paquete instalado en el entorno:
+### Actualizar un paquete instalado en el entorno:
 
 ```bash
 $ conda list -n kataconda pytest
